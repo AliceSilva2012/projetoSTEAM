@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel= "stylesheet" href= "styles.css">
+  
+    <title>Site de STEAM</title>
+</head>
+<body>
+    <header class= "cabecalho">
+      <nav class= "container navegacao">
+        <button class= "botao-menu">≡</button>
+        <ul class= "menu">
+          <li>
+            <a href= "#destaque">Início</a>
+          </li>
+          <li>
+            <a href= "#produto">Produto</a>
+          </li>
+          <li>
+            <a href= "#como-funciona">Funcionamento</a>
+          </li>
+          <li>
+            <a href= "#sobre">Projeto</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+  <section class= "destaque" id= "destaque">
+    <div class= "container">
+      <div class= "texto">
+        <h1>Sensor de Temperatura</h1>
+        <p>Sistema de sensores para prevenção de incêndios florestais, monitorando temperatura, umidade e fumaça.
+        </p>
+        <a class= "botao" href= "#como-funciona">Explore!</a>
+      </div>
+      <div class= "imagem">
+        <img src="./imgS/sensores-umidade-e-temp-450x450.jpg" alt="produto/ logo">
+      </div>
+    </div>
+  </section>
+  <section class= "produto" id= "produto">
+    <h2>O FireSense</h2>
+    <hr>
+    <div class= "container">
+      <div class= "card">
+        <div class= "icone">⚡</div>
+        <h3>O que é</h3>
+        <p>FireSense, é um sistema de sensores instalado em áreas de risco de incêndios florestais.</p>
+      </div>
+      <div class= "card">
+        <div class= "icone">❗</div>
+          <h3>Funcionalidade</h3>
+          <p>Os sensores monitoram continuamente a temperatura, umidade do ar e presença de fumaça.</p>
+      </div>
+      <div class= "card">
+        <div class= "icone">📞</div>
+          <h3>Sistema de Alerta</h3>
+          <p>Um aplicativo, no qual os moradores locais poderiam ver os sensores na sua área, vendo se tem algo suspeito, e denunciarem caso notem algo suspeito.</p>
+      </div>
+    </div>
+  </section>
+  <hr>
+  <section class= "como-funciona" id= "como-funciona">
+    <h2>Como funciona?</h2>
+    <div class= "block-grid"> 
+    <div class= "block">
+      <img src= "./imgS/incendio.jpg"
+        alt= "Floresta">
+      <h3>🌡️<br>Monitoramento</h3>
+      <p>Os sensores ficam instalados em áreas de risco e medem a temperatura, umidade e fumaça continuamente.</p>
+    </div>
+    <div class= "block">
+      <img src= "./imgS/dados.jpg"
+        alt= "Analise de dados">
+      <h3>📊<br>Análise de Dados</h3>
+      <p>Os dados são enviados para o sistema, que verifica se as coisas estão dentro do esperado.</p>
+    </div>
+    <div class= "block">
+      <img src= "./imgS/risco.webp"
+        alt= "risco">
+      <h3>⚠️<br>Identificação de risco</h3>
+      <p>Se a temperatura, umidade e/ ou fumaça indicarem uma possível situação de incêndio, o sistema identifica o risco.</p>
+    </div>
+    <div class= "block">
+      <img src= "./imgS/app.webp"
+        alt= "alerta">
+      <h3>‼️<br>Alerta</h3>
+      <p>O aplicativo informa os moradores ou responsáveis pela região, que podem verificar a situação e tomar providências.</p>
+    </div>
+    </div>
+</section>
+  <section class= "sobre" id= "sobre">
+    <h2>Sobre o Projeto</h2>
+    <hr>
+    <div class= "sobre-grid"> 
+    <p>
+      A ideia do projeto surgiu ao vermos com frequência notícias sobre incêndios florestais nos jornais. Isso nos fez pensar em como a tecnologia poderia ajudar na prevenção e na identificação de possíveis focos de incêndio.
+<br>
+      A partir disso, nosso grupo desenvolveu a ideia de um sistema de sensores que monitora temperatura, umidade e fumaça em áreas de risco, buscando contribuir para a identificação antecipada de situações perigosas.
+    </p>
+      <img src= "./imgS/sensor.jpg"
+        alt= "sensor png">
+   </div>
+  </section>
+  <section class="aplicativo" id="aplicativo">
+    <h2>Painel de Relatórios do App</h2>
+    <hr>
+    <div class="container aplicativo-grid">
+      <div class="app-texto">
+        <h3>Monitoramento em Tempo Real</h3>
+        <p>O aplicativo FireSense recebe os dados dos sensores e organiza tudo em tabelas de status fáceis de ler. Assim, qualquer anomalia na região é destacada imediatamente para os usuários.</p>
+        
+        <table class="tabela-status">
+          <thead>
+            <tr>
+              <th>Área (Sensor)</th>
+              <th>Status</th>
+              <th>Temp.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Setor Norte</td>
+              <td><span class="status-ok">Normal</span></td>
+              <td>24°C</td>
+            </tr>
+            <tr>
+              <td>Setor Leste</td>
+              <td><span class="status-ok">Normal</span></td>
+              <td>26°C</td>
+            </tr>
+            <tr>
+              <td>Setor Sul</td>
+              <td><span class="status-alerta">Em Alerta</span></td>
+              <td>39°C</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="app-imagem">
+        <!-- Lembre-se de colocar uma imagem legal de um celular ou gráfico aqui depois -->
+        <img src="./imgS/celular-app.jpg" alt="Interface do painel de relatórios do aplicativo FireSense">
+      </div>
+    </div>
+  </section>
+  <section class= "cta">
+    <h2>Um sistema pronto para fazer a diferença!</h2>
+  </section>
+  <footer>
+    <div><strong>FireSense — 2026</strong></div>
+  </footer>
+  <script>
+    let botao = document.querySelector('.botao-menu');
+    let menu = document.querySelector('.menu');
+
+    //add = adicionar
+    //event = evento
+    //listener = ouvinte
+    botao.addEventListener('click', () => {
+      menu.classList.toggle('ativo') 
+      // toggle / inverso = se não é uma coisa é outra (nesse caso, seeve pro botao abrir e fechar a aba)
+    })
+  </script>
+</body>
+</html>
