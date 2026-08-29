@@ -25,7 +25,7 @@ Este projeto front-end foi desenvolvido utilizando:
 * **JavaScript:** Para a interatividade da página (como o funcionamento do menu de navegação mobile via *toggle*).
 
 ## 💡 A Origem da Ideia
-A motivação principal para o desenvolvimento deste projeto surgiu do acompanhamento frequente de notícias sobre incêndios florestais. O objetivo foi aplicar os conceitos da metodologia S.T.E.A.M. (Ciências, Tecnologia, Engenharia, Artes e Matemática) para criar uma solução viável e de impacto positivo para o meio ambiente.
+A motivação principal para o desenvolvimento deste projeto surgiu do acompanhamento frequente de notícias sobre incêndios florestais. O objetivo foi aplicar os conceitos da metodologia S.T.E.A.M. (Ciências, Tecnologia, Engenharia, Artes e Matemática) para criar uma solução viável e de impacto positivo para o meio ambiente, para apresentação de seminário escolar.
 
 ---
 *Desenvolvido para fins educacionais.*
