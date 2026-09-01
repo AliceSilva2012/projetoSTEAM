@@ -28,4 +28,4 @@ Este projeto front-end foi desenvolvido utilizando:
 A motivação principal para o desenvolvimento deste projeto surgiu do acompanhamento frequente de notícias sobre incêndios florestais. O objetivo foi aplicar os conceitos da metodologia S.T.E.A.M. (Ciências, Tecnologia, Engenharia, Artes e Matemática) para criar uma solução viável e de impacto positivo para o meio ambiente.
 
 ---
-*Desenvolvido para fins educacionais (seminário escolar).*
+*Desenvolvido para fins educacionais (projeto e seminário escolar).*
