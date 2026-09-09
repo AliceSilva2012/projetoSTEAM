@@ -24,6 +24,14 @@ Este projeto front-end foi desenvolvido utilizando:
 * **CSS3:** Para a estilização visual, layout e responsividade.
 * **JavaScript:** Para a interatividade da página (como o funcionamento do menu de navegação mobile via *toggle*).
 
+---
+
+## 🌎 Teste meu projeto no seu navegador! 
+
+- **Pokédex:** [VER PROJETO](https://hubpokedex.netlify.app)
+
+---
+
 ## 💡 A Origem da Ideia
 A motivação principal para o desenvolvimento deste projeto surgiu do acompanhamento frequente de notícias sobre incêndios florestais. O objetivo foi aplicar os conceitos da metodologia S.T.E.A.M. (Ciências, Tecnologia, Engenharia, Artes e Matemática) para criar uma solução viável e de impacto positivo para o meio ambiente.
 
