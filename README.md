@@ -28,7 +28,7 @@ Este projeto front-end foi desenvolvido utilizando:
 
 ## 🌎 Teste meu projeto no seu navegador! 
 
-- **projetoSTEAM:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://sensefire.netlify.app)
+- **projetoSTEAM:** [VER PROJETO](https://sensefire.netlify.app)
 
 ---
 
