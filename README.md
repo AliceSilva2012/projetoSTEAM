@@ -1,6 +1,10 @@
 # SenseFire 🌲🔥 
 **Projeto S.T.E.A.M.**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ## 💻 Sobre o Projeto
 O **SenseFire** é um sistema conceitual de sensores focado na prevenção e identificação rápida de incêndios florestais. O projeto propõe o monitoramento contínuo de temperatura, umidade do ar e presença de fumaça em áreas de risco ambiental, utilizando a tecnologia como aliada na preservação da natureza.
 
