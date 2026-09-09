@@ -28,7 +28,7 @@ Este projeto front-end foi desenvolvido utilizando:
 
 ## 🌎 Teste meu projeto no seu navegador! 
 
-- **Pokédex:** [VER PROJETO](https://hubpokedex.netlify.app)
+- **projetoSTEAM:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://sensefire.netlify.app)
 
 ---
 
