@@ -46,7 +46,7 @@ A motivação principal para o desenvolvimento deste projeto surgiu do acompanha
 ## 📁 Estrutura do Arquivo
 
 ```text
-├── index.html     # Estrutura HTMLdoa site
+├── index.html     # Estrutura HTML do site
 ├── style.css      # Estilização visual e posicionamento dos elementos
 └── script.js      # Interatividade do menu em dispositivos mobile
 ```
