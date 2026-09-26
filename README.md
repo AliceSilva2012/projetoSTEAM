@@ -43,6 +43,31 @@ A motivação principal para o desenvolvimento deste projeto surgiu do acompanha
 
 ---
 
+## 🚀 Como Executar o Projeto Localmente
+
+### Pré-requisitos
+- Um navegador web moderno (Google Chrome, Firefox, Edge, etc.).
+- [Git](https://git-scm.com) instalado na máquina.
+- Um editor de código como o [VS Code](https://code.visualstudio.com/) (opcional).
+
+### ☕ Passo a Passo
+
+1. **Clone este repositório:**
+   ```bash
+   git clone https://github.com/AliceSilva2012/projetoSTEAM.git
+   ```
+
+2. **Acesse a pasta do projeto:**
+   ```bash
+   cd projetoSTEAM
+   ```
+
+3. **Execute a aplicação:**
+   - Dê um duplo clique no arquivo `index.html` para abri-lo no navegador, ou
+   - Clique com o botão direito no `index.html` e selecione **Open with Live Server**.
+
+---
+
 ## 📁 Estrutura do Arquivo
 
 ```text
