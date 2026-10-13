@@ -27,7 +27,7 @@ O sistema prevê a organização dos dados recebidos de forma estruturada para f
 | Setor Leste | Normal 🟢 | 26°C |
 | Setor Sul | **Em Alerta** 🔴 | 39°C |
 
---
+---
 
 ## 🛠️ Tecnologias Utilizadas
 Este projeto front-end foi desenvolvido utilizando:
