@@ -1,5 +1,4 @@
 # SenseFire 🌲🔥 
-**Projeto S.T.E.A.M.**
 
 ![Interface do SenseFire](https://hubportfolio.netlify.app/img/projeto2.png)
 
