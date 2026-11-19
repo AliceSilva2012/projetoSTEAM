@@ -1,50 +1,60 @@
-# SenseFire 🌲🔥 
+# SenseFire 🌲🔥
 
-![Interface do SenseFire](https://hubportfolio.netlify.app/img/projeto2.png)
+<img width="1440" height="900" alt="Interface do projeto SenseFire" src="https://alicesilva2012.github.io/portfolio/img/projeto2.png" />
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Acessar_Projeto-E65100?style=for-the-badge&logo=netlify&logoColor=white)](https://sensefire.netlify.app)
+
+> Um sistema conceitual de monitoramento ambiental focado na prevenção e identificação rápida de incêndios florestais por meio de sensores inteligentes.
+
+---
 
 ## 💻 Sobre o Projeto
+
 O **SenseFire** é um sistema conceitual de sensores focado na prevenção e identificação rápida de incêndios florestais. O projeto propõe o monitoramento contínuo de temperatura, umidade do ar e presença de fumaça em áreas de risco ambiental, utilizando a tecnologia como aliada na preservação da natureza.
 
 ---
 
 ## ⚙️ Funcionalidades
-* **Monitoramento Contínuo:** Captura de dados ambientais em tempo real através de sensores distribuídos.
-* **Análise de Risco:** Sistema que cruza dados (temperatura, umidade e fumaça) para identificar possíveis focos de incêndio.
-* **Sistema de Alerta (App):** Uma interface em que moradores e autoridades locais podem visualizar painéis de relatórios precisos sobre suas regiões e realizar denúncias.
+
+- **Monitoramento Contínuo:** Captura de dados ambientais em tempo real através de sensores distribuídos.
+- **Análise de Risco:** Sistema que cruza dados (temperatura, umidade e fumaça) para identificar possíveis focos de incêndio.
+- **Sistema de Alerta (App):** Interface na qual moradores e autoridades locais podem visualizar painéis de relatórios sobre suas regiões e registrar denúncias.
 
 ---
 
 ## 📊 Painel de Monitoramento
-O sistema prevê a organização dos dados recebidos de forma estruturada para facilitar a leitura dos usuários, destacando anomalias imediatamente:
+
+O sistema organiza os dados recebidos de forma estruturada para facilitar a leitura dos usuários, destacando anomalias imediatamente:
 
 | Setor Monitorado | Status do Sensor | Temperatura Registrada |
-| :--- | :--- | :--- |
-| Setor Norte | Normal 🟢 | 24°C |
-| Setor Leste | Normal 🟢 | 26°C |
-| Setor Sul | **Em Alerta** 🔴 | 39°C |
+| :--- | :--- | :---: |
+| **Setor Norte** | Normal 🟢 | 24°C |
+| **Setor Leste** | Normal 🟢 | 26°C |
+| **Setor Sul** | **Em Alerta** 🔴 | 39°C |
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
+
 Este projeto front-end foi desenvolvido utilizando:
-* **HTML5:** Para a estruturação semântica de todo o conteúdo e tabelas de status.
-* **CSS3:** Para a estilização visual, layout e responsividade.
-* **JavaScript:** Para a interatividade da página (como o funcionamento do menu de navegação mobile via *toggle*).
+- **HTML5:** Estruturação semântica de todo o conteúdo e tabelas de status.
+- **CSS3:** Estilização visual, layout responsivo e componentes de alerta.
+- **JavaScript (Vanilla):** Interatividade da página, incluindo o funcionamento do menu de navegação mobile via *toggle*.
 
 ---
 
-## 🌎 Teste meu projeto no seu navegador! 
+## 🌎 Teste meu projeto no seu navegador!
 
 - **SenseFire:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://sensefire.netlify.app)
 
 ---
 
 ## 💡 A Origem da Ideia
-A motivação principal para o desenvolvimento deste projeto surgiu do acompanhamento frequente de notícias sobre incêndios florestais. O objetivo foi aplicar os conceitos da metodologia S.T.E.A.M. (Ciências, Tecnologia, Engenharia, Artes e Matemática) para criar uma solução viável e de impacto positivo para o meio ambiente.
+
+A motivação principal para o desenvolvimento deste projeto surgiu do acompanhamento frequente de notícias sobre incêndios florestais. O objetivo foi aplicar os conceitos da metodologia **S.T.E.A.M.** (Ciências, Tecnologia, Engenharia, Artes e Matemática) para criar uma solução viável e de impacto positivo para o meio ambiente.
 
 ---
 
@@ -70,10 +80,10 @@ A motivação principal para o desenvolvimento deste projeto surgiu do acompanha
 3. **Execute a aplicação:**
    - Dê um duplo clique no arquivo `index.html` para abri-lo no navegador, ou
    - Clique com o botão direito no `index.html` e selecione **Open with Live Server**.
-
+  
 ---
 
-## 📁 Estrutura do Arquivo
+## 📁 Estrutura de Arquivos
 
 ```mermaid
 graph TD
@@ -85,6 +95,3 @@ graph TD
     style C fill:#1572b6,stroke:#fff,stroke-width:2px,color:#fff
     style D fill:#f7df1e,stroke:#333,stroke-width:2px,color:#000
 ```
-
----
-*Desenvolvido para fins educacionais (projeto e seminário escolar).*
